@@ -28,15 +28,14 @@ twitter_username: SciencePaige
 github_username:  paigem
 
 # Build settings
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-include-cache
 include: ["_pages"]
-teaser: /Users/paige/Pictures/PeteNPaige_photos/winery.jpg
-atom_feed:
-  hide: true
+teaser: assets/ocean_albatross_straightened.JPG
 
 
 
