@@ -28,6 +28,7 @@ twitter_username: SciencePaige
 github_username:  paigem
 
 # Build settings
+# To run locally, comment out "remote_theme" and uncomment "theme", and also uncomment the plugins block below
 #theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
