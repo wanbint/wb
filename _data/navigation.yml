@@ -2,8 +2,6 @@
 main:
   - title: "Home"
     url: https://paigem.github.io
-  - title: "About"
-    url: #about
   - title: "Research"
     url: /research/
   - title: "Open Science"
