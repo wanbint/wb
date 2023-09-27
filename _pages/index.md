@@ -37,10 +37,10 @@ feature_row:
 
 # About
 
-Hi, I'm Paige! I am a scientist by training, with a background in physical oceanography and climate data science, and have years of scientific and technical expertise in large-scale data analysis, open-source software, and cloud computing. I currently work to support and enable open science. I envision a future with robust, transparent, and inclusive scientific research, and believe that open science frameworks are the best tools to achieve this vision.
+Hi, I'm Paige! 👋  I am a scientist by training, with a background in physical oceanography 🌊 and climate data science 👩‍💻, and have years of scientific and technical expertise in large-scale data analysis, open-source software, and cloud computing. I currently work to support and enable open science. I envision a future with robust, transparent, and inclusive scientific research, and believe that open science frameworks are the best tools to achieve this vision.
 
-Click on the links below to learn more about what I do!
+Click on the links below to learn more about what I love to do!
 
-_Note: I've currently revamping this site and will be adding more content in the coming weeks!_
+_Note: I am currently revamping this site and will be adding more content in the coming weeks!_
 
 {% include feature_row %}
