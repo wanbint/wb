@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Home"
+    url: https://paigem.github.io
+  - title: "About"
+    url: #about
+  - title: "Research"
+    url: /research/
+  - title: "Open Science"
+    url: /open-science/
+  - title: "Capacity Development"
+    url: /capacity-development/
+  - title: "CV"
+    url: /assets/Paige_CV.pdf
