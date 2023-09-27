@@ -1,5 +1,10 @@
 # Paige E. Martin's webPaige!
 
+Welcome to my webpa(i)ge! Note that I am currently revamping this site and will be adding more content over the coming weeks.
+
+Thanks for visiting!
+
+---
 ## Credits
 
 ### Creator
