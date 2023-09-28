@@ -1,5 +1,5 @@
 ---
-title: "Capacity Development"
+title: "Capacity Sharing"
 layout: single
 sitemap: true
 permalink: /capacity-sharing/
