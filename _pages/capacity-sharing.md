@@ -30,6 +30,6 @@ I am a co-lead for [Global Ocean Corps](https://globaloceancorps.org) - a progra
 
 ## OceanHackWeek
 
-OceanHackWeek (OHW) is a one-week collaborative learning experience aimed at teaching and promoting best-practice ocean science computational workflows. I have been an organizer, a member of the Steering Council, and a mentor for OHW. 
+[OceanHackWeek](https://oceanhackweek.org) (OHW) is a one-week collaborative learning experience aimed at teaching and promoting best-practice ocean science computational workflows. I have been an organizer, a member of the Steering Council, and a mentor for OHW. 
 
 
