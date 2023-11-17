@@ -41,6 +41,8 @@ Hi, I'm Paige! 👋  I am a scientist by training, with a background in physical
 
 Click on the links below to learn more about what I love to do!
 
-_Note: I am currently revamping this site and will be adding more content in the coming weeks!_
+
 
 {% include feature_row %}
+
+_Note: I am gradually adding more content to this site, so check back soon for updates!_
