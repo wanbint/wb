@@ -106,10 +106,8 @@ analytics:
 author:
   name             : "Paige E. Martin"
   avatar           : "/assets/paige_photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Open Science Expert & Enthusiast <br><br> 
-                      **Support Scientist** <br> 
-                      NASA Headquarters"
-  location         : "Moving to Canberra, Australia"
+  bio              : "Open Science Expert & Enthusiast"
+  location         : "Canberra, Australia"
   email            :
   links:
     - label: "Email"
