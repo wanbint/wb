@@ -20,6 +20,8 @@ During my PhD and Postdoc, I used a novel Fourier analysis technique to compute 
 
 ## Publications
 
+Arbic, B.K., S. Elipot, J.M. Brasch, D. Menemenlis, A.L. Ponte, J.F. Shriver, X. Yu, E.D. Zaron, M.H. Alford, M.C. Buijsman, R. Abernathey, D. Garcia, L. Guan, P.E. Martin, and A.D. Nelson (2022), [Near-surface oceanic kinetic energy distributions from drifter observations and numerical models](https://doi.org/10.1029/2022JC018551), _Journal of Geophysical Research: Oceans_, 127, e2022JC018551, 
+
 Light, C.X., Arbic, B.K., Martin, P.E. et al. (2022) [Effects of grid spacing on high-frequency precipitation variance in coupled high-resolution global ocean-atmosphere models](https://doi.org/10.1007/s00382-022-06257-6), _Climate Dynamics_.
 
 Loose, N., Abernathey, R., Grooms, I., Busecke, J., Guillaumin, A.P., Yankovsky, E., Marques, G., Steinberg, J.M., Ross, A.S., Khatri, H., Bachman, S.D., Zanna, L., Martin, P. (2022). [GCM-Filters: A Python Package for Diffusion-based Spatial Filtering of Gridded Data](https://joss.theoj.org/papers/10.21105/joss.03947), _Journal of Open Source Software_.
