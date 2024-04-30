@@ -1,6 +1,6 @@
 # Paige E. Martin's webPaige!
 
-Welcome to my webpa(i)ge! Note that I am currently revamping this site and will be adding more content over the coming weeks.
+Welcome to my webpa(i)ge (pun intended)! To view the site, you can go to [paigem.github.io](paigem.github.io).
 
 Thanks for visiting!
 
