@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/wb/wbPP.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg" # twb< change the bk
   bio              : "PhD Candidate at Stony Brook University"
   location         : "New York, USA"
-  email            : "wanbin.tan@stonybrook.edu"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
