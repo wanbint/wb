@@ -49,7 +49,7 @@ Outside of research, I enjoy staying active outdoors through road trips and hiki
 <!--Text
 
 <figure>
-  <img src="/wb/wbIdealHousing.jpg" width="600px" alt="">
+  <img src="https://github.com/wanbint/wb/blob/master/assets/wbfile/wbIdealHousing.jpg" width="600px" alt="">
   <figcaption>Grand Teton National Park
   </figcaption>
 </figure>
@@ -62,11 +62,7 @@ Outside of research, I enjoy staying active outdoors through road trips and hiki
 
 -->
 
-<figure>
-  <img src="https://github.com/wanbint/wb/blob/master/assets/wbfile/wbIdealHousing.jpg" width="600px" alt="">
-  <figcaption>Grand Teton National Park
-  </figcaption>
-</figure>
+![Alt text](https://github.com/wanbint/wb/blob/master/assets/wbfile/wbIdealHousing.jpg)
 
 
 <!--Text {% include feature_row %} -->
