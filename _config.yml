@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :SciencePaige
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Wanbin Tan"
-  avatar           : "/assets/paige_photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg" # twb< change the bk
+  avatar           : "/assets/wb/wbPP.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg" # twb< change the bk
   bio              : "PhD Candidate at Stony Brook University"
   location         : "New York, USA"
   email            : "wanbin.tan@stonybrook.edu"
@@ -118,26 +118,26 @@ author:
       url: "https://wanbint.github.io/wb/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/paigem"
+      url: "https://github.com/wanbint"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/paige-martin-phd/"
-    - label: "X (formerly Twitter)"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/SciencePaige"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.linkedin.com/in/wanbin-tan-983017196/"
+    #- label: "X (formerly Twitter)"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/SciencePaige"
+    #- label: "Facebook"
+    #  icon: "fab fa-fw fa-facebook-square"
+    #  # url: "https://facebook.com/"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/SciencePaige
+    #  url: https://twitter.com/SciencePaige
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
