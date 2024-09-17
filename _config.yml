@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Paige E. Martin"
+title                    : "Wanbin's Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Paige Martin"
-description              : "Paige's WebPaige"
-url                      : "https://paigem.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Wanbin Tan"
+description              : "Wanbin's Homepage"
+url                      : "https://wanbint.github.io/wb/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -102,22 +102,79 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
+author:
+  # Biographic information
+  avatar           : "Photo_Wanbin Tan2.jpg"  # twb<
+  name             : "Wanbin Tan"
+  pronouns         : # example: "she/her"  
+  bio              : "Medical Physics"
+  location         : "New York"
+  employer         : "Stony Brook University"
+  uri              : # URL
+  email            : "wanbin.tan@stonybrook.edu" 
+
+  # Academic websites
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=epgk0YYAAAAJ&hl=en"
+  impactstory      : # URL
+  orcid            : # "http://orcid.org/yourorcidurl"
+  semantic         : # URL
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : https://www.researchgate.net/profile/Wanbin-Tan
+
+  # Repositories and software development
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : "wanbint"
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+
+  # Social media
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
+  facebook         : # Username
+  flickr           : # Username
+  foursquare       : # Username
+  goodreads        : # Username
+  google_plus      : # Username
+  keybase          : # Username
+  instagram        : # Username
+  lastfm           : # Username
+  linkedin         : wanbin-tan-983017196
+  mastodon         : # URL
+  medium           : # URL
+  pinterest        : # Username
+  soundcloud       : # Username
+  steam            : # Username
+  telegram         : # URL
+  tumblr           : # Username
+  twitter          : # Username for X / Twitter
+  vine             : # Username
+  weibo            : # Username
+  wikipedia        : # Username
+  xing             : # Username
+  youtube          : # Username
+  zhihu            : # URL
+
+<!--Text
+
 # Site Author
 author:
-  name             : "Paige E. Martin"
-  avatar           : "/assets/paige_photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Open Science Expert & Enthusiast <br><br> 
-                      **Team Lead, User Training** <br> 
-                      Australian Earth System Simulator (ACCESS-NRI)"
-  location         : "Canberra, Australia"
-  email            :
+  name             : "Wanbin Tan"
+  avatar           : "/assets/paige_photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg" # twb< change the bk
+  bio              : "PhD Candidate at Stony Brook University"
+  location         : "New York, USA"
+  email            : "wanbin.tan@stonybrook.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ms.paigem@gmail.com"
+      url: "wanbin.tan@stonybrook.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://paigem.github.io"
+      url: "https://wanbint.github.io/wb/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/paigem"
@@ -155,7 +212,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
+-->
 
 # Reading Files
 include:
